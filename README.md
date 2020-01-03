@@ -1,4 +1,4 @@
-# Python Terminal Guessing game
+# Python Terminal2 Guessing game
 
 * Allows Passing in a custom range(for guesses) when running the file 
 * Example: 
